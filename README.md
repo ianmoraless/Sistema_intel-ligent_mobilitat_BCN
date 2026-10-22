@@ -7,6 +7,8 @@ Aquest projecte consisteix en desenvolupar una dashboard web interactiva que per
 
 Les alternatives inclouran els desplaçaments a peu, en bicicleta i amb transport públic, com ara autobús, metro i tramvia. Per a cada alternativa, es mostrarà el temps estimat de trajecte i, quan correspongui, el cost aproximat d'un viatge d'anada.
 
+També es possible que ens faci fer una combinació de transport, de totes maneres, si es així l'aplicació indicarà la opció més sostenible per a viatgar per Barcelona.
+
 ## 2. Objectius i finalitats
 
 ### Objectiu general
